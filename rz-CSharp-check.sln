@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rz-CSharp-check", "rz-CSharp-check.csproj", "{A865FEA5-7906-41DD-860D-2AA5759A4E62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A865FEA5-7906-41DD-860D-2AA5759A4E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A865FEA5-7906-41DD-860D-2AA5759A4E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A865FEA5-7906-41DD-860D-2AA5759A4E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A865FEA5-7906-41DD-860D-2AA5759A4E62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D828A500-0ED4-4495-82C6-FEE5C603BCED}
+	EndGlobalSection
+EndGlobal
