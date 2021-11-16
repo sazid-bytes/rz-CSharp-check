@@ -7,6 +7,7 @@ namespace rz_CSharp_check
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Apples");
         }
     }
 }
